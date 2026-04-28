@@ -22,7 +22,7 @@ A dynamic and responsive Flutter application that discovers movies from live dat
 ## 📱 App Gallery
 
 <p align="center">
-  <img src="screenshots/home.png" width="250" alt="Home Screen">
+  <img src="screenshots/home page.png" width="250" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/details.png" width="250" alt="Movie Details">
   &nbsp;&nbsp;&nbsp;
@@ -30,13 +30,12 @@ A dynamic and responsive Flutter application that discovers movies from live dat
 </p>
 
 <p align="center">
+  <img src="screenshots/selected fav.png" width="250" alt="Favorite Selection">
+  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/movie search.png" width="250" alt="Search Start">
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/search result.png" width="250" alt="Search Results">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/selected fav.png" width="250" alt="Favorite Selection">
 </p>
-
 ### Features Showcase
 
 **Real-Time Search with Debouncing**
