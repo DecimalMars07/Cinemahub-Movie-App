@@ -338,7 +338,6 @@ This project is open source and available under the MIT License.
 **Rohit Chaudhary**
 - 📧 Email: rodriguezrohit10@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/rohitchaudhary3147
-- 🐙 GitHub: github.com/rohitchaudhary3147
 
 ---
 
