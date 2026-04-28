@@ -299,8 +299,10 @@ This project demonstrates:
 ## 📚 Key Dependencies
 
 ```yaml
-flutter_bloc: ^8.0.0           # State management
-http: ^1.1.0                    # REST API calls
+flutter_bloc: ^9.1.1           # State management
+http: ^1.6.0                   # REST API calls  
+cached_network_image: ^3.4.1
+shared_preferences: ^2.5.5     # local storage
 equatable: ^2.0.5               # Immutable state
 shimmer: ^2.0.0                 # Loading placeholders
 ```
