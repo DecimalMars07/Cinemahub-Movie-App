@@ -30,11 +30,11 @@ A dynamic and responsive Flutter application that discovers movies from live dat
 </p>
 
 <p align="center">
-  <img src="screenshots/movie_search.png" width="250" alt="Search Start">
+  <img src="screenshots/movie search.png" width="250" alt="Search Start">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/search_result.png" width="250" alt="Search Results">
+  <img src="screenshots/search result.png" width="250" alt="Search Results">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/selected_fav.png" width="250" alt="Favorite Selection">
+  <img src="screenshots/selected fav.png" width="250" alt="Favorite Selection">
 </p>
 
 ### Features Showcase
